@@ -1,6 +1,6 @@
-inter-lazy
+Interviews
 ==========
 
-A web browser that manages all your computer!
+Data Structures and Algorithms
 
   
