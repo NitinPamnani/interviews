@@ -2,6 +2,7 @@
 
 ## Week 1
  - [ ] Arrays
+      - [ ] [Leetcode.42 - Trapping rain water](https://leetcode.com/problems/trapping-rain-water/)
  - [ ] Maths 1
  - [ ] Maths 2
 
